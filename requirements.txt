@@ -1,0 +1,7 @@
+asgiref
+backports.zoneinfo
+Django
+django-browser-reload
+django-tailwind
+sqlparse
+typing-extensions
